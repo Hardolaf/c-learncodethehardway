@@ -1,0 +1,14 @@
+C - Learn Code the Hard Way
+
+This repository contains my personal copies of the programs written as part of
+C Learn Code the Hard Way. I did not write them, or the commit messages.
+
+This code is all from http://c.learncodethehardway.org/
+
+Go there to learn C. Trust me, you'll enjoy it.
+
+The License only covers the following files:
+  Makefile
+  CONTRIBUTING
+  LICENSE
+  README
